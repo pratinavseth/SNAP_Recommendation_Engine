@@ -57,7 +57,7 @@ Feature Extraction and Similar Products Recommendation System which might make c
 ### Solution_P3.ipynb - 
 Customer Reviews Feature Extraction,Clustering of products into various group based on Customer Confidence and Recommendation of products based on their consumer confidence and category similarity using different metrics.
 
-### app.py - streamlit demo
+### trial.py - streamlit demo
 
 ### Solution_Inference.ipynb - 
 A inference notebook to showcase all three solutions together.
